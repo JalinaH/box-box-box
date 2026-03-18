@@ -1,0 +1,154 @@
+{
+  "cliff_age": {
+    "HARD": 30,
+    "MEDIUM": 20,
+    "SOFT": 10
+  },
+  "compound_base": {
+    "HARD": 0.8,
+    "MEDIUM": 0.0,
+    "SOFT": -1.0
+  },
+  "deg_rate": {
+    "HARD": 0.102,
+    "MEDIUM": 0.2,
+    "SOFT": 0.4
+  },
+  "deg_rate_quad": {
+    "HARD": 0.0,
+    "MEDIUM": 0.0,
+    "SOFT": 0.0
+  },
+  "fresh_tire_warmup": {
+    "HARD": 0.0,
+    "MEDIUM": 0.0,
+    "SOFT": 0.0
+  },
+  "temp_a": 24.7,
+  "temp_b": 1092.0,
+  "temp_compound_mult": {
+    "HARD": 1.0,
+    "MEDIUM": 1.0,
+    "SOFT": 1.0
+  },
+  "track_cliff_add": {
+    "Bahrain": {
+      "HARD": 0,
+      "MEDIUM": 0,
+      "SOFT": 0
+    },
+    "COTA": {
+      "HARD": 0,
+      "MEDIUM": 0,
+      "SOFT": 0
+    },
+    "Monaco": {
+      "HARD": 0,
+      "MEDIUM": 0,
+      "SOFT": 0
+    },
+    "Monza": {
+      "HARD": 0,
+      "MEDIUM": 0,
+      "SOFT": 0
+    },
+    "Silverstone": {
+      "HARD": 0,
+      "MEDIUM": 0,
+      "SOFT": 0
+    },
+    "Spa": {
+      "HARD": 0,
+      "MEDIUM": 0,
+      "SOFT": 0
+    },
+    "Suzuka": {
+      "HARD": 0,
+      "MEDIUM": 0,
+      "SOFT": 0
+    }
+  },
+  "track_compound_base_add": {
+    "Bahrain": {
+      "HARD": 0.0,
+      "MEDIUM": 0.0,
+      "SOFT": 0.0
+    },
+    "COTA": {
+      "HARD": 0.0,
+      "MEDIUM": 0.0,
+      "SOFT": 0.0
+    },
+    "Monaco": {
+      "HARD": 0.0,
+      "MEDIUM": 0.0,
+      "SOFT": 0.0
+    },
+    "Monza": {
+      "HARD": 0.0,
+      "MEDIUM": 0.0,
+      "SOFT": 0.0
+    },
+    "Silverstone": {
+      "HARD": 0.0,
+      "MEDIUM": 0.0,
+      "SOFT": 0.0
+    },
+    "Spa": {
+      "HARD": 0.0,
+      "MEDIUM": 0.0,
+      "SOFT": 0.0
+    },
+    "Suzuka": {
+      "HARD": 0.0,
+      "MEDIUM": 0.0,
+      "SOFT": 0.0
+    }
+  },
+  "track_deg_mult": {
+    "Bahrain": {
+      "HARD": 1.0,
+      "MEDIUM": 1.0305841391067587,
+      "SOFT": 1.0
+    },
+    "COTA": {
+      "HARD": 0.9875708123639285,
+      "MEDIUM": 1.012859781463932,
+      "SOFT": 1.0
+    },
+    "Monaco": {
+      "HARD": 1.002330547690855,
+      "MEDIUM": 1.0,
+      "SOFT": 1.0
+    },
+    "Monza": {
+      "HARD": 1.0055140304378054,
+      "MEDIUM": 1.011721423209404,
+      "SOFT": 1.002
+    },
+    "Silverstone": {
+      "HARD": 1.0,
+      "MEDIUM": 1.0,
+      "SOFT": 1.0
+    },
+    "Spa": {
+      "HARD": 0.92,
+      "MEDIUM": 0.9519073501683355,
+      "SOFT": 0.95
+    },
+    "Suzuka": {
+      "HARD": 0.99,
+      "MEDIUM": 1.02,
+      "SOFT": 0.99
+    }
+  },
+  "track_pit_mult": {
+    "Bahrain": 0.9828868113321939,
+    "COTA": 0.9996905675581521,
+    "Monaco": 1.0136955883400667,
+    "Monza": 1.0,
+    "Silverstone": 1.0,
+    "Spa": 1.0,
+    "Suzuka": 0.95
+  }
+}
